@@ -1,2 +1,4 @@
-goodedit
+Good Edit
 ========
+
+Text Editor
